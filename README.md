@@ -1,0 +1,11 @@
+# MBDyn1ForceCoupled
+
+Requirements:
+Python 3, MBDyn (with python interface)
+
+To reproduce the case, open a terminal and execute:
+
+Terminal 1:
+```
+python3 script.py
+```
